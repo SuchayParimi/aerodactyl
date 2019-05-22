@@ -2,9 +2,7 @@
 Hi! I am Suchay's pet, Aerodactyl. 
 I tell the names of capital cities of all countries.
 
-# Try online
-
-[Try Online](https://suchayparimi.github.io/)
+[# Try online](https://suchayparimi.github.io/)
 
 
 
