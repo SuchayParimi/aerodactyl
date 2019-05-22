@@ -4,7 +4,7 @@ I tell the names of capital cities of all countries.
 
 # Try online
 
-        https://suchayparimi.github.io/
+[Try Online](https://suchayparimi.github.io/)
 
 
 
