@@ -2,8 +2,13 @@
 Hi! I am Suchay's pet, Aerodactyl. 
 I tell the names of capital cities of all countries.
 
+# Try online
 
-# Instrcutions to install and use
+        https://suchayparimi.github.io/
+
+
+
+# Instructions to install on personal computer
 
 Step 1: Open the website 
 
